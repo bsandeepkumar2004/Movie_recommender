@@ -1,4 +1,4 @@
-'''import requests
+import requests
 
 API_KEY = ""  # Replace with your actual TMDB API key
 
@@ -18,4 +18,4 @@ def fetch_poster(movie_id):
         else:
             return "https://via.placeholder.com/150"
     except:
-        return "https://via.placeholder.com/150"'''
+        return "https://via.placeholder.com/150"
