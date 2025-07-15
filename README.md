@@ -11,8 +11,7 @@ It suggests similar titles by computing **TF‑IDF** vectors over each film’s 
 
 
 ## 1 · Clone the repo
-git clone https://github.com/<your‑user>/movie‑recommender‑tfidf.git
-cd movie‑recommender‑tfidf
+git clone https://github.com/bsandeepkumar2004/Movie_recommender
 
 ## 2 · Create & activate a virtual environment (optional but recommended)
 python -m venv .venv
