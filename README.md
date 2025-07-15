@@ -34,12 +34,8 @@ pip install -r requirements.txt
 'requests'->For API request.
 
 ## Output
-
-<img width="1365" height="629" alt="Screenshot 2025-07-15 112025" src="https://github.com/user-attachments/assets/d093bf52-1041-4129-81ce-944822da63c6" />
-<img width="1362" height="629" alt="Screenshot 2025-07-15 111958" src="https://github.com/user-attachments/assets/443384e5-9c49-4e4f-ba35-61e2136e90f9" />
-<img width="1363" height="626" alt="Screenshot 2025-07-15 111921" src="https://github.com/user-attachments/assets/129eaf5d-a1af-498b-aa66-08c4256be9df" />
-<img width="1366" height="768" alt="Screenshot 2025-07-15 111820" src="https://github.com/user-attachments/assets/9675c05a-6f3a-476e-af93-bacf3c195ace" />
 <img width="1366" height="720" alt="Screenshot 2025-07-15 111747" src="https://github.com/user-attachments/assets/d966d11f-205c-4e81-bddb-ba458c80d66a" />
-
-
-
+<img width="1366" height="768" alt="Screenshot 2025-07-15 111820" src="https://github.com/user-attachments/assets/9675c05a-6f3a-476e-af93-bacf3c195ace" />
+<img width="1363" height="626" alt="Screenshot 2025-07-15 111921" src="https://github.com/user-attachments/assets/129eaf5d-a1af-498b-aa66-08c4256be9df" />
+<img width="1362" height="629" alt="Screenshot 2025-07-15 111958" src="https://github.com/user-attachments/assets/443384e5-9c49-4e4f-ba35-61e2136e90f9" />
+<img width="1365" height="629" alt="Screenshot 2025-07-15 112025" src="https://github.com/user-attachments/assets/d093bf52-1041-4129-81ce-944822da63c6" />
